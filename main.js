@@ -1,5 +1,5 @@
-function test() {
-    return "version 1.1"
+function hmmmm() {
+    return "version 1.2"
 }
 
 const result = test()
