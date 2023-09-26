@@ -1,9 +1,5 @@
 function show_version() {
-    return "version 1.4"
-}
-
-function new_functionality() {
-    return "cool"
+    return "version 1.2"
 }
 
 const result = show_version()
