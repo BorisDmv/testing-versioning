@@ -7,4 +7,4 @@ function new_functionality() {
 }
 
 const result = show_version()
-print('version code is ', result)
+print(results)
