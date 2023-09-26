@@ -1,5 +1,5 @@
 function show_version() {
-    return "version 1.3"
+    return "version 1.4"
 }
 
 function new_functionality() {
