@@ -9,5 +9,7 @@ function new_functionality() {
 //feature 3 added
 feature3 = "feature3"
 
+yay = "yay"
+
 const result = show_version()
 print(results)
