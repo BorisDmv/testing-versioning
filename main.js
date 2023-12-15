@@ -12,6 +12,9 @@ function feature1() {
 }
 
 //feature2
+function feature2() {
+    return "feature2"
+}
 
 const result = show_version()
 print(result)
