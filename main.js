@@ -11,5 +11,7 @@ feature3 = "feature3"
 
 yay = "yay"
 
+test1 = "test1"
+
 const result = show_version()
 print(results)
