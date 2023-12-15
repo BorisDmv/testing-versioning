@@ -11,5 +11,7 @@ function feature1() {
     return "feature1"
 }
 
+//feature2
+
 const result = show_version()
 print(result)
