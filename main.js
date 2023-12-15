@@ -6,6 +6,7 @@ function new_functionality() {
     return "cool"
 }
 
+//feature 3 added
 feature3 = "feature3"
 
 const result = show_version()
